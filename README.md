@@ -16,6 +16,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+[Instructions](instructions.md)
+
 Search page
 ![image](/screenshots/search.png)
 
