@@ -1,7 +1,3 @@
-**Overview**:
-This interview is a take home to assess your practical technical skills building web applications.
-You should spend no more than 3 hours completing the project.
-
 **Prompt**:
 We would like you to make a functioning React Web Application using the publicly available
 RxNorm API (https://rxnav.nlm.nih.gov/RxNormAPIs.html).
